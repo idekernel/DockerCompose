@@ -4,7 +4,7 @@
 # Command format: Instruction [arguments / command ] ..
 
 # Base image to use, this nust be set as the first line
-FROM ubuntu
+FROM docker
 
 # Maintainer: docker_user <docker_user at email.com> (@docker_user)
 MAINTAINER docker_user docker_user@email.com
