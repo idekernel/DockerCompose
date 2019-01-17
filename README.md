@@ -1,2 +1,2 @@
 # DockerCompose
-ubuntu
+docker
